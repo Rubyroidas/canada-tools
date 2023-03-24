@@ -1,0 +1,16 @@
+# IDE
+.idea/
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+
+# platform specific
+.DS_Store
+Thumbs.db
+
+node_modules/
+dist/
+*.log
+*.tmp
